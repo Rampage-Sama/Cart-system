@@ -4,11 +4,11 @@
 <!--About web application -->
 ## What it is?
 
-### _Nordic Store_ is an e-commerce product listing template with a minimalist yet elegant design.
+ _Nordic Store_ is an e-commerce product listing template with a minimalist yet elegant design.
 
 ## What it does?
 
-### The store solves a problem to add store products in the cart while the data is being stored in a database.
+ The store solves a problem to add store products in the cart while the data is being stored in a database.
 
 ***
 <!--Technolgies -->
